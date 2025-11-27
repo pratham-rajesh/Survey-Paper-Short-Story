@@ -34,7 +34,7 @@ arXiv:2503.08836
 
 ## 🧩 Deliverables
 
-- **📝 Medium Article (Original Writing):** _[Add Medium link]_  
+- **📝 Medium Article (Original Writing):** https://medium.com/@pratham.r410/the-hidden-crisis-in-data-science-are-we-misusing-our-most-popular-visualization-tools-555d1edbeb50 
   - Focuses on **workflows**, **metrics**, **interpretation**, and **common pitfalls**.  
   - Written from scratch with **original visuals** and commentary.
 
