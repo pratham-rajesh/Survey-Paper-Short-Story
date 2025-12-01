@@ -38,7 +38,7 @@ arXiv:2503.08836
   - Focuses on **workflows**, **metrics**, **interpretation**, and **common pitfalls**.  
   - Written from scratch with **original visuals** and commentary.
 
-- **📊 Slides (Slideshare):** _[Add Slideshare link]_  
+- **📊 Slides (Slideshare):** https://docs.google.com/presentation/d/19QMl-Sg8qonYfjYVwoXt9J5E7PNgGqWjJNU8nLNiTEE/edit?usp=sharing  
   - 10–15 slides covering: motivation → DR methods → workflows → pitfalls → recommendations → references.
 
 - **🎥 Recorded Talk (10–15 min):** _[Add video link]_  
