@@ -41,7 +41,7 @@ arXiv:2503.08836
 - **📊 Slides (Slideshare):** https://docs.google.com/presentation/d/19QMl-Sg8qonYfjYVwoXt9J5E7PNgGqWjJNU8nLNiTEE/edit?usp=sharing  
   - 10–15 slides covering: motivation → DR methods → workflows → pitfalls → recommendations → references.
 
-- **🎥 Recorded Talk (10–15 min):** _[Add video link]_  
+- **🎥 Recorded Talk (10–15 min):** https://youtu.be/LPJdrRu07vY 
   - Walkthrough of slides and insights, focusing on how DR is actually applied in practice.
 
 ---
